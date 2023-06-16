@@ -21,7 +21,7 @@ def ascii_console_art():
 | |   ( ( | ( (___| |< ( _____) ) | | | | |  | |   
 |_|    \_||_|\____)_| \_|______/|_| |_|_|_|  |_|   
 ''')
-    print('Network packet sniffer, developed and coded by Saher Muhamed - version 1.0.0')
+    print('Network packet sniffer, developed and coded by Saher Muhamed - version 1.0.1')
     print('============================================================================')
 
 
