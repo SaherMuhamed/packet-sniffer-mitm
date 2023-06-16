@@ -52,4 +52,4 @@ This script is intended for educational and research purposes only. Please use i
 
 ## New Update!!
 Now you can see `Possible credentials` field in yellow color in the console.
-![](screenshots/2023-06-16 23_16_06-.png)
+![](screenshots/2023-06-16_23-16-06.png)
