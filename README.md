@@ -36,9 +36,9 @@
 
 ## Output
 - The script will display the following information for each captured packet:
-   1. Server IP: The destination IP address of the packet.
-   2. URL: The URL extracted from the HTTP request.
-   3. Possible credentials: If the packet payload contains any of the predefined keywords (e.g., 'uname', 'username', 'login', 'usr', 'usrname', 'pass', 'email', 'password'), it will be displayed as a potential credential. 
+   1. `Server IP`: The destination IP address of the packet.
+   2. `URL`: The URL extracted from the HTTP request.
+   3. `Possible credentials`: If the packet payload contains any of the predefined keywords (e.g., 'uname', 'username', 'login', 'usr', 'usrname', 'pass', 'email', 'password'), it will be displayed as a potential credential. 
 
 - Note: This script is for educational purposes only. Make sure you have proper authorization before using it on any network.
 
