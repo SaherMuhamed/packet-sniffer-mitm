@@ -7,6 +7,7 @@
 - Python 3.x
 - `scapy` library
 - `optparse` library
+- `colorama` library
 
 ## Installation
 - Clone the repository or download the script:
@@ -15,7 +16,7 @@
    ```
 - Install the required libraries using the following command:
    ```commandline
-   pip install scapy optparse
+   pip install scapy colorama
    ```
 
 
@@ -48,3 +49,7 @@
 
 ## Disclaimer
 This script is intended for educational and research purposes only. Please use it responsibly and in compliance with applicable laws and regulations. Iam assume no responsibility for any misuse or damages caused by this script.
+
+## New Update!!
+Now you can see `Possible credentials` field in yellow color in the console.
+![](screenshots/2023-06-16 23_16_06-.png)
