@@ -6,7 +6,7 @@
 ## Prerequisites
 - Python 3.x
 - `scapy` library
-- `optparse` library
+- `argparse` library
 - `colorama` library
 
 ## Installation
@@ -16,7 +16,7 @@
    ```
 - Install the required libraries using the following command:
    ```commandline
-   pip install scapy colorama
+   pip install scapy colorama scapy_http
    ```
 
 
@@ -37,9 +37,8 @@
 
 ## Output
 - The script will display the following information for each captured packet:
-   1. `Server IP`: The destination IP address of the packet.
-   2. `URL`: The URL extracted from the HTTP request.
-   3. `Possible credentials`: If the packet payload contains any of the predefined keywords (e.g., 'uname', 'username', 'login', 'usr', 'usrname', 'pass', 'email', 'password'), it will be displayed as a potential credential. 
+   1. `URL`: The URL extracted from the HTTP request and it's ip addresses.
+   2. `Possible credentials`: If the packet payload contains any of the predefined keywords (e.g., 'uname', 'username', 'login', 'usr', 'usrname', 'pass', 'email', 'password'), it will be displayed as a potential credential. 
 
 - Note: This script is for educational purposes only. Make sure you have proper authorization before using it on any network.
 
@@ -51,5 +50,5 @@
 This script is intended for educational and research purposes only. Please use it responsibly and in compliance with applicable laws and regulations. Iam assume no responsibility for any misuse or damages caused by this script.
 
 ## New Update!!
-Now you can see `Possible credentials` field in yellow color in the console.
+Now you can see `Possible credentials` field in yellow color in the console.</br>
 ![](screenshots/2023-06-16_23-16-06.png)
