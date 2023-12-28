@@ -1,5 +1,7 @@
 # Network Packet Sniffer
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)  ![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white)  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 - This Python script is a network packet sniffer that captures and analyzes network packets on a specified network interface. It detects HTTP requests and searches for potential credentials within the captured packets.
 - The script utilizes the scapy library for packet capturing and parsing. It specifically focuses on capturing HTTP packets and extracting useful information such as server IP, URLs, and potential credentials. The captured packets are processed in real-time, and relevant details are displayed on the console.
 
@@ -49,6 +51,6 @@
 ## Disclaimer
 This script is intended for educational and research purposes only. Please use it responsibly and in compliance with applicable laws and regulations. Iam assume no responsibility for any misuse or damages caused by this script.
 
-## New Update!!
-Now you can see `Possible credentials` field in yellow color in the console.</br>
-![](screenshots/2023-06-16_23-16-06.png)
+### Updates
+`v1.1.0 - 16/6/2023` adding yellow color to **possible creds** output
+`v1.1.1 - 28/12/2023` adding new outputs like **Methods**, and **device IP**
