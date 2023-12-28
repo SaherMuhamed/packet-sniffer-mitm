@@ -4,6 +4,7 @@ import scapy.all as scapy
 from scapy.layers import http
 from argparse import ArgumentParser
 from colorama import Fore
+import datetime as dt
 import sys
 
 if sys.version_info < (3, 0):
@@ -12,21 +13,8 @@ if sys.version_info < (3, 0):
     sys.exit(0)
 
 
-def ascii_console_art():
-    print("""
-  _____            _        _          _  ___  ___
-(_____ \          | |      | |        (_)/ __)/ __)
- _____) )___  ____| |  _    \ \  ____  _| |__| |__
-|  ____/ _  |/ ___) | / )    \ \|  _ \| |  __)  __)
-| |   ( ( | ( (___| |< ( _____) ) | | | | |  | |
-|_|    \_||_|\____)_| \_|______/|_| |_|_|_|  |_|
-""")
-    print('Network packet sniffer, developed and coded by Saher Muhamed - version 1.0.1')
-    print('============================================================================')
-
-
 def args():
-    parser = ArgumentParser()
+    parser = ArgumentParser(description="------- Simple Tool to Sniffing Packets through an Interface -------")
     parser.add_argument('-i', '--interface', dest='iface', help='specify you card interface, run (ifconfig)')
     options = parser.parse_args()
     if not options.iface:
@@ -42,9 +30,12 @@ def sniff(interface):
 
 def process_sniffed_packet(packet):
     if packet.haslayer(http.HTTPRequest):  # check if a packet contains any layers (http)
+        print(Fore.RESET + "Requested from: " + packet[scapy.IP].src)
+        # print(packet.show())
         url = packet[http.HTTPRequest].Host + packet[http.HTTPRequest].Path
-        print(Fore.RESET + "[+] HTTP Request ==> " + str(url) + " is at " + str(packet[scapy.IP].dst))  # print
-        # possible urls and it's ip addresses
+        print(Fore.RESET + "User-Agent: " + str(packet[http.HTTPRequest].User_Agent, encoding="UTF-8"))
+        print(Fore.RESET + "URL: " + str(packet[http.HTTPRequest].Method, encoding="UTF-8") + " - " + 
+              str(url, encoding="UTF-8") + " is at " + str(packet[scapy.IP].dst))
 
         if packet.haslayer(scapy.Raw):  # check if a packet contains any layers (raw)
             load = str(packet[scapy.Raw].load)
@@ -53,7 +44,12 @@ def process_sniffed_packet(packet):
                 if keyword in load:
                     print(Fore.YELLOW + "\n[+] Possible credentials ==> " + load + "\n")
                     break
+        print("\n\n")
 
 
-ascii_console_art()
+print('\nNetwork packet sniffer, developed and coded by Saher Muhamed - version 1.0.1\n')
+print("==========================")
+print("* " + str(dt.datetime.now().strftime("%b %d, %Y %H:%M:%S %p")))
+print("* start sniffing on " + args().iface)
+print("==========================\n")
 sniff(interface=args().iface)
