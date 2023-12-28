@@ -45,7 +45,7 @@
 - Note: This script is for educational purposes only. Make sure you have proper authorization before using it on any network.
 
 ## Screenshots
-![](screenshots/Screenshot-2023-06-16-153516.png)
+![](https://github.com/SaherMuhamed/packet-sniffer-mitm/blob/master/screenshots/Screenshot%20from%202023-12-28%2016-06-22.png)
 ![](screenshots/Screenshot-2023-06-16-153633.png)
 
 ## Disclaimer
