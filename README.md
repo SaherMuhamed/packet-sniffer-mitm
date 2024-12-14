@@ -40,8 +40,8 @@
 - Note: This script is for educational purposes only. Make sure you have proper authorization before using it on any network.
 
 ## Screenshots
-![](https://github.com/SaherMuhamed/packet-sniffer-mitm/blob/master/screenshots/Screenshot%20from%202023-12-28%2016-06-22.png)
-![](screenshots/Screenshot-2023-06-16-153633.png)
+![](https://github.com/SaherMuhamed/packet-sniffer-mitm/blob/master/screenshots/Screenshot%20from%202024-12-14%2017-21-53.png)
+![](https://github.com/SaherMuhamed/packet-sniffer-mitm/blob/master/screenshots/Screenshot%20from%202024-12-14%2017-22-52.png)
 
 ## Disclaimer
 This script is intended for educational and research purposes only. Please use it responsibly and in compliance with applicable laws and regulations. Iam assume no responsibility for any misuse or damages caused by this script.
