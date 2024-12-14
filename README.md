@@ -54,3 +54,4 @@ This script is intended for educational and research purposes only. Please use i
 ### Updates
 `v1.1.0 - 16/6/2023` adding yellow color to **possible creds** output
 `v1.1.1 - 28/12/2023` adding new outputs like **Methods**, and **device IP**
+`v1.1.2 - 14/12/2024` adding **Access.log** for analyzing requests, adding **responses** and refine outputs
