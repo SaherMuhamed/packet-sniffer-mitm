@@ -37,11 +37,6 @@
 4. Extracts server IP and URLs from HTTP packets.
 5. Identifies potential credentials based on specific keywords in packet payload.
 
-## Output
-- The script will display the following information for each captured packet:
-   1. `URL`: The URL extracted from the HTTP request and it's ip addresses.
-   2. `Possible credentials`: If the packet payload contains any of the predefined keywords (e.g., 'uname', 'username', 'login', 'usr', 'usrname', 'pass', 'email', 'password'), it will be displayed as a potential credential. 
-
 - Note: This script is for educational purposes only. Make sure you have proper authorization before using it on any network.
 
 ## Screenshots
