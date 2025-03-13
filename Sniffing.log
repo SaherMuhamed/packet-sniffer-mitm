@@ -1,0 +1,938 @@
+13/Mar/2025 02:26:38 PM - Started sniffing on interface eth0 with filter 'tcp port 80'
+13/Mar/2025 02:26:38 PM - 10.20.14.3 ─ [13/Mar/2025 02:26:38 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e9f25f54-9a54-4e31-91fd-7fd2ad4f4a2f?P1=1742411386&P2=404&P3=2&P4=BEeEIVCAB8Q6%2bivY%2bfCCB8kGZV5QXynH6jdX8KZt8GHLokgksdly7TSFDl%2fAYzCnj8j7Cfm2NpEGsX4dsJZSjQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:26:38 PM - 10.20.14.3 ─ [13/Mar/2025 02:26:38 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e9f25f54-9a54-4e31-91fd-7fd2ad4f4a2f?P1=1742411386&P2=404&P3=2&P4=BEeEIVCAB8Q6%2bivY%2bfCCB8kGZV5QXynH6jdX8KZt8GHLokgksdly7TSFDl%2fAYzCnj8j7Cfm2NpEGsX4dsJZSjQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:26:39 PM - 104.85.248.75 ─ [13/Mar/2025 02:26:39 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:26:39 PM - 104.85.248.75 ─ [13/Mar/2025 02:26:39 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:26:39 PM - 10.20.14.3 ─ [13/Mar/2025 02:26:39 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e9f25f54-9a54-4e31-91fd-7fd2ad4f4a2f?P1=1742411386&P2=404&P3=2&P4=BEeEIVCAB8Q6%2bivY%2bfCCB8kGZV5QXynH6jdX8KZt8GHLokgksdly7TSFDl%2fAYzCnj8j7Cfm2NpEGsX4dsJZSjQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:26:39 PM - 10.20.14.3 ─ [13/Mar/2025 02:26:39 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e9f25f54-9a54-4e31-91fd-7fd2ad4f4a2f?P1=1742411386&P2=404&P3=2&P4=BEeEIVCAB8Q6%2bivY%2bfCCB8kGZV5QXynH6jdX8KZt8GHLokgksdly7TSFDl%2fAYzCnj8j7Cfm2NpEGsX4dsJZSjQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:26:39 PM - 104.85.248.75 ─ [13/Mar/2025 02:26:39 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:26:39 PM - 104.85.248.75 ─ [13/Mar/2025 02:26:39 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:26:39 PM - 104.85.248.75 ─ [13/Mar/2025 02:26:39 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:26:39 PM - 104.85.248.75 ─ [13/Mar/2025 02:26:39 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:26:55 PM - 10.20.14.3 ─ [13/Mar/2025 02:26:55 PM] "GET www.vulnweb.com/" Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+13/Mar/2025 02:26:55 PM - 10.20.14.3 ─ [13/Mar/2025 02:26:55 PM] "GET www.vulnweb.com/" Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+13/Mar/2025 02:26:55 PM - 44.228.249.3 ─ [13/Mar/2025 02:26:55 PM] "HTTP Response b'307' b'Temporary Redirect'"
+13/Mar/2025 02:26:55 PM - 44.228.249.3 ─ [13/Mar/2025 02:26:55 PM] "HTTP Response b'307' b'Temporary Redirect'"
+13/Mar/2025 02:27:12 PM - 10.20.14.3 ─ [13/Mar/2025 02:27:12 PM] "GET www.vulnweb.com/" Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+13/Mar/2025 02:27:12 PM - 10.20.14.3 ─ [13/Mar/2025 02:27:12 PM] "GET www.vulnweb.com/" Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+13/Mar/2025 02:27:12 PM - 44.228.249.3 ─ [13/Mar/2025 02:27:12 PM] "HTTP Response b'307' b'Temporary Redirect'"
+13/Mar/2025 02:27:12 PM - 44.228.249.3 ─ [13/Mar/2025 02:27:12 PM] "HTTP Response b'307' b'Temporary Redirect'"
+13/Mar/2025 02:27:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:27:18 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9b9f8fb4-8a65-41e4-bda3-5416858f0aeb?P1=1742404183&P2=404&P3=2&P4=GkFsq9rPmMFU2%2bCIp7A%2bjiekMkxbdeyZISBE5SntaxgEI78v9YyRCWoZKWxU9I%2bj3FLOacI5H%2f7iA48wMW5nnQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:27:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:27:18 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9b9f8fb4-8a65-41e4-bda3-5416858f0aeb?P1=1742404183&P2=404&P3=2&P4=GkFsq9rPmMFU2%2bCIp7A%2bjiekMkxbdeyZISBE5SntaxgEI78v9YyRCWoZKWxU9I%2bj3FLOacI5H%2f7iA48wMW5nnQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:27:18 PM - 104.85.248.75 ─ [13/Mar/2025 02:27:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:27:18 PM - 104.85.248.75 ─ [13/Mar/2025 02:27:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:27:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:27:18 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9b9f8fb4-8a65-41e4-bda3-5416858f0aeb?P1=1742404183&P2=404&P3=2&P4=GkFsq9rPmMFU2%2bCIp7A%2bjiekMkxbdeyZISBE5SntaxgEI78v9YyRCWoZKWxU9I%2bj3FLOacI5H%2f7iA48wMW5nnQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:27:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:27:18 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/9b9f8fb4-8a65-41e4-bda3-5416858f0aeb?P1=1742404183&P2=404&P3=2&P4=GkFsq9rPmMFU2%2bCIp7A%2bjiekMkxbdeyZISBE5SntaxgEI78v9YyRCWoZKWxU9I%2bj3FLOacI5H%2f7iA48wMW5nnQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:27:18 PM - 104.85.248.75 ─ [13/Mar/2025 02:27:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:27:18 PM - 104.85.248.75 ─ [13/Mar/2025 02:27:18 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:27:18 PM - 104.85.248.75 ─ [13/Mar/2025 02:27:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:27:18 PM - 104.85.248.75 ─ [13/Mar/2025 02:27:18 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:27:51 PM - 10.20.14.3 ─ [13/Mar/2025 02:27:51 PM] "GET testphp.vulnweb.com/login.php" Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+13/Mar/2025 02:27:51 PM - 10.20.14.3 ─ [13/Mar/2025 02:27:51 PM] "GET testphp.vulnweb.com/login.php" Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+13/Mar/2025 02:27:51 PM - 44.228.249.3 ─ [13/Mar/2025 02:27:51 PM] "HTTP Response b'307' b'Temporary Redirect'"
+13/Mar/2025 02:27:51 PM - 44.228.249.3 ─ [13/Mar/2025 02:27:51 PM] "HTTP Response b'307' b'Temporary Redirect'"
+13/Mar/2025 02:27:51 PM - 10.20.14.3 ─ [13/Mar/2025 02:27:51 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/03b2d981-4f59-42a6-8f9a-a2b6278a0020?P1=1742407784&P2=404&P3=2&P4=c%2fcNm6IzmN%2bfNENujJH42GjCGHNTTdAGKMOyyl4ykEyKZeaKkFrgCc9mY%2futAX22RtsvmUC3a%2bSMlHvaR%2bGP2A%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:27:51 PM - 10.20.14.3 ─ [13/Mar/2025 02:27:51 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/03b2d981-4f59-42a6-8f9a-a2b6278a0020?P1=1742407784&P2=404&P3=2&P4=c%2fcNm6IzmN%2bfNENujJH42GjCGHNTTdAGKMOyyl4ykEyKZeaKkFrgCc9mY%2futAX22RtsvmUC3a%2bSMlHvaR%2bGP2A%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:27:51 PM - 104.85.248.75 ─ [13/Mar/2025 02:27:51 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:27:51 PM - 104.85.248.75 ─ [13/Mar/2025 02:27:51 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:27:51 PM - 10.20.14.3 ─ [13/Mar/2025 02:27:51 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/03b2d981-4f59-42a6-8f9a-a2b6278a0020?P1=1742407784&P2=404&P3=2&P4=c%2fcNm6IzmN%2bfNENujJH42GjCGHNTTdAGKMOyyl4ykEyKZeaKkFrgCc9mY%2futAX22RtsvmUC3a%2bSMlHvaR%2bGP2A%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:27:51 PM - 10.20.14.3 ─ [13/Mar/2025 02:27:51 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/03b2d981-4f59-42a6-8f9a-a2b6278a0020?P1=1742407784&P2=404&P3=2&P4=c%2fcNm6IzmN%2bfNENujJH42GjCGHNTTdAGKMOyyl4ykEyKZeaKkFrgCc9mY%2futAX22RtsvmUC3a%2bSMlHvaR%2bGP2A%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:27:51 PM - 104.85.248.75 ─ [13/Mar/2025 02:27:51 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:27:51 PM - 104.85.248.75 ─ [13/Mar/2025 02:27:51 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:27:51 PM - 104.85.248.75 ─ [13/Mar/2025 02:27:51 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:27:51 PM - 104.85.248.75 ─ [13/Mar/2025 02:27:51 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:28:35 PM - 10.20.14.3 ─ [13/Mar/2025 02:28:35 PM] "GET ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBTrjrydRyt%2BApF3GSPypfHBxR5XtQQUs9tIpPmhxdiuNkHMEWNpYim8S8YCEAI5PUjXAkJafLQcAAsO18o%3D" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:28:35 PM - 10.20.14.3 ─ [13/Mar/2025 02:28:35 PM] "GET ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBTrjrydRyt%2BApF3GSPypfHBxR5XtQQUs9tIpPmhxdiuNkHMEWNpYim8S8YCEAI5PUjXAkJafLQcAAsO18o%3D" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:28:35 PM - 23.40.158.218 ─ [13/Mar/2025 02:28:35 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:28:35 PM - 23.40.158.218 ─ [13/Mar/2025 02:28:35 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:28:35 PM - 23.40.158.218 ─ [13/Mar/2025 02:28:35 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:28:35 PM - 23.40.158.218 ─ [13/Mar/2025 02:28:35 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:29:00 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:00 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0d597c-a09c-4400-be86-87596dd2e696?P1=1742404477&P2=404&P3=2&P4=B9in8xDCCN9SckQU66EFBP5M6lMlpZEY713Dpwhdvl5NzAs15y6b9t8KU6XlU3kM9hTsR5kFLKGRHOmUYQKERA%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:29:00 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:00 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0d597c-a09c-4400-be86-87596dd2e696?P1=1742404477&P2=404&P3=2&P4=B9in8xDCCN9SckQU66EFBP5M6lMlpZEY713Dpwhdvl5NzAs15y6b9t8KU6XlU3kM9hTsR5kFLKGRHOmUYQKERA%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:29:00 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:00 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:29:00 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:00 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:29:00 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:00 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0d597c-a09c-4400-be86-87596dd2e696?P1=1742404477&P2=404&P3=2&P4=B9in8xDCCN9SckQU66EFBP5M6lMlpZEY713Dpwhdvl5NzAs15y6b9t8KU6XlU3kM9hTsR5kFLKGRHOmUYQKERA%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:29:00 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:00 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0d597c-a09c-4400-be86-87596dd2e696?P1=1742404477&P2=404&P3=2&P4=B9in8xDCCN9SckQU66EFBP5M6lMlpZEY713Dpwhdvl5NzAs15y6b9t8KU6XlU3kM9hTsR5kFLKGRHOmUYQKERA%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:29:00 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:00 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:29:00 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:00 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:29:00 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:00 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:29:00 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:00 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:29:01 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:01 PM] "GET ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab?adcff5bf10ead0c2" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:29:01 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:01 PM] "GET ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab?adcff5bf10ead0c2" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:29:01 PM - 146.75.54.172 ─ [13/Mar/2025 02:29:01 PM] "HTTP Response b'304' b'Not Modified'"
+13/Mar/2025 02:29:01 PM - 146.75.54.172 ─ [13/Mar/2025 02:29:01 PM] "HTTP Response b'304' b'Not Modified'"
+13/Mar/2025 02:29:01 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:01 PM] "GET ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab?81ddc26efcc77396" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:29:01 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:01 PM] "GET ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab?81ddc26efcc77396" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:29:01 PM - 146.75.54.172 ─ [13/Mar/2025 02:29:01 PM] "HTTP Response b'304' b'Not Modified'"
+13/Mar/2025 02:29:01 PM - 146.75.54.172 ─ [13/Mar/2025 02:29:01 PM] "HTTP Response b'304' b'Not Modified'"
+13/Mar/2025 02:29:01 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:01 PM] "GET ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?459d473d7807816f" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:29:01 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:01 PM] "GET ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?459d473d7807816f" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:29:01 PM - 146.75.54.172 ─ [13/Mar/2025 02:29:01 PM] "HTTP Response b'304' b'Not Modified'"
+13/Mar/2025 02:29:01 PM - 146.75.54.172 ─ [13/Mar/2025 02:29:01 PM] "HTTP Response b'304' b'Not Modified'"
+13/Mar/2025 02:29:09 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:09 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e97d85e8-2e6f-4c6c-8a9a-1d07973733be?P1=1742182083&P2=404&P3=2&P4=b2Ic2fmfU9aEP86lsQTc8wNwjTbMJHdV1%2fsKnZ7IK0dp%2fbfiaSdZqjICmbrZqpo94pJzb29afk1t%2fQdnSKoLTA%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:29:09 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:09 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e97d85e8-2e6f-4c6c-8a9a-1d07973733be?P1=1742182083&P2=404&P3=2&P4=b2Ic2fmfU9aEP86lsQTc8wNwjTbMJHdV1%2fsKnZ7IK0dp%2fbfiaSdZqjICmbrZqpo94pJzb29afk1t%2fQdnSKoLTA%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:29:09 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:09 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:29:09 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:09 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:29:09 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:09 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e97d85e8-2e6f-4c6c-8a9a-1d07973733be?P1=1742182083&P2=404&P3=2&P4=b2Ic2fmfU9aEP86lsQTc8wNwjTbMJHdV1%2fsKnZ7IK0dp%2fbfiaSdZqjICmbrZqpo94pJzb29afk1t%2fQdnSKoLTA%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:29:09 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:09 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/e97d85e8-2e6f-4c6c-8a9a-1d07973733be?P1=1742182083&P2=404&P3=2&P4=b2Ic2fmfU9aEP86lsQTc8wNwjTbMJHdV1%2fsKnZ7IK0dp%2fbfiaSdZqjICmbrZqpo94pJzb29afk1t%2fQdnSKoLTA%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:29:09 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:09 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:29:09 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:09 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:29:09 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:09 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:29:09 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:09 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:29:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:21 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5cbc98ff-b69b-4fda-ad94-17ec2f9cf48b?P1=1742404476&P2=404&P3=2&P4=FTX0%2bTdJ2%2fsuwust4LHR0cLxtv45BZ6cC2CY1TIr0luLHnqsa5%2bhb15VEoGbWktgvCclEE8cEt9DALruqsnhkg%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:29:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:21 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5cbc98ff-b69b-4fda-ad94-17ec2f9cf48b?P1=1742404476&P2=404&P3=2&P4=FTX0%2bTdJ2%2fsuwust4LHR0cLxtv45BZ6cC2CY1TIr0luLHnqsa5%2bhb15VEoGbWktgvCclEE8cEt9DALruqsnhkg%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:29:22 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:22 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:29:22 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:22 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:29:22 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:22 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5cbc98ff-b69b-4fda-ad94-17ec2f9cf48b?P1=1742404476&P2=404&P3=2&P4=FTX0%2bTdJ2%2fsuwust4LHR0cLxtv45BZ6cC2CY1TIr0luLHnqsa5%2bhb15VEoGbWktgvCclEE8cEt9DALruqsnhkg%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:29:22 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:22 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/5cbc98ff-b69b-4fda-ad94-17ec2f9cf48b?P1=1742404476&P2=404&P3=2&P4=FTX0%2bTdJ2%2fsuwust4LHR0cLxtv45BZ6cC2CY1TIr0luLHnqsa5%2bhb15VEoGbWktgvCclEE8cEt9DALruqsnhkg%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:29:22 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:22 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:29:22 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:22 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:29:22 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:22 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:29:22 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:22 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:29:38 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:38 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f28d972a-574d-41b9-8559-4ab486e8a4f0?P1=1742400875&P2=404&P3=2&P4=msCVdFlmCaqQywJ4sdXFfZGf4IfGJKbXhIXXG75RTFL5LKZ4HrYkZqhkNyuhSAr54zYIO5w1lvd4fF0a0EjpNg%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:29:38 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:38 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f28d972a-574d-41b9-8559-4ab486e8a4f0?P1=1742400875&P2=404&P3=2&P4=msCVdFlmCaqQywJ4sdXFfZGf4IfGJKbXhIXXG75RTFL5LKZ4HrYkZqhkNyuhSAr54zYIO5w1lvd4fF0a0EjpNg%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:29:38 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:38 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:29:38 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:38 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:29:38 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:38 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f28d972a-574d-41b9-8559-4ab486e8a4f0?P1=1742400875&P2=404&P3=2&P4=msCVdFlmCaqQywJ4sdXFfZGf4IfGJKbXhIXXG75RTFL5LKZ4HrYkZqhkNyuhSAr54zYIO5w1lvd4fF0a0EjpNg%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:29:38 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:38 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f28d972a-574d-41b9-8559-4ab486e8a4f0?P1=1742400875&P2=404&P3=2&P4=msCVdFlmCaqQywJ4sdXFfZGf4IfGJKbXhIXXG75RTFL5LKZ4HrYkZqhkNyuhSAr54zYIO5w1lvd4fF0a0EjpNg%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:29:39 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:39 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:29:39 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:39 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:29:39 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:39 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:29:39 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:39 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:29:40 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:40 PM] "GET ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab?c0ed498f57eecd3e" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:29:40 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:40 PM] "GET ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab?c0ed498f57eecd3e" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:29:40 PM - 146.75.54.172 ─ [13/Mar/2025 02:29:40 PM] "HTTP Response b'304' b'Not Modified'"
+13/Mar/2025 02:29:40 PM - 146.75.54.172 ─ [13/Mar/2025 02:29:40 PM] "HTTP Response b'304' b'Not Modified'"
+13/Mar/2025 02:29:40 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:40 PM] "GET ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?4d7bfe781212077a" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:29:40 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:40 PM] "GET ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?4d7bfe781212077a" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:29:40 PM - 146.75.54.172 ─ [13/Mar/2025 02:29:40 PM] "HTTP Response b'304' b'Not Modified'"
+13/Mar/2025 02:29:40 PM - 146.75.54.172 ─ [13/Mar/2025 02:29:40 PM] "HTTP Response b'304' b'Not Modified'"
+13/Mar/2025 02:29:59 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:59 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a1587ffc-a44e-4b1a-8dad-015e3383573f?P1=1742457719&P2=404&P3=2&P4=a9FZiyRlIm%2bieRkccq7%2b4asjFdjFSXaU59t5lgtnzLgUoBiS1If8yjbnx%2fdYmDKAKy5CH%2fika%2f0Mkn4VLrR3EQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:29:59 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:59 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a1587ffc-a44e-4b1a-8dad-015e3383573f?P1=1742457719&P2=404&P3=2&P4=a9FZiyRlIm%2bieRkccq7%2b4asjFdjFSXaU59t5lgtnzLgUoBiS1If8yjbnx%2fdYmDKAKy5CH%2fika%2f0Mkn4VLrR3EQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:29:59 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:59 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:29:59 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:59 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:29:59 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:59 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a1587ffc-a44e-4b1a-8dad-015e3383573f?P1=1742457719&P2=404&P3=2&P4=a9FZiyRlIm%2bieRkccq7%2b4asjFdjFSXaU59t5lgtnzLgUoBiS1If8yjbnx%2fdYmDKAKy5CH%2fika%2f0Mkn4VLrR3EQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:29:59 PM - 10.20.14.3 ─ [13/Mar/2025 02:29:59 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a1587ffc-a44e-4b1a-8dad-015e3383573f?P1=1742457719&P2=404&P3=2&P4=a9FZiyRlIm%2bieRkccq7%2b4asjFdjFSXaU59t5lgtnzLgUoBiS1If8yjbnx%2fdYmDKAKy5CH%2fika%2f0Mkn4VLrR3EQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:29:59 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:59 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:29:59 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:59 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:29:59 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:59 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:29:59 PM - 104.85.248.75 ─ [13/Mar/2025 02:29:59 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:30:24 PM - 10.20.14.3 ─ [13/Mar/2025 02:30:24 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a575cead-e662-4f4d-b0c3-81f1438d0388?P1=1742376356&P2=404&P3=2&P4=FZKy3XJBCSpbzfhjQDocie3fv4eEZFu6aBQ3whxWYhQTZUt8tIMlEEUVbaV5EfprrcaXHmjIftjuIHFEXOfZzQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:30:24 PM - 10.20.14.3 ─ [13/Mar/2025 02:30:24 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a575cead-e662-4f4d-b0c3-81f1438d0388?P1=1742376356&P2=404&P3=2&P4=FZKy3XJBCSpbzfhjQDocie3fv4eEZFu6aBQ3whxWYhQTZUt8tIMlEEUVbaV5EfprrcaXHmjIftjuIHFEXOfZzQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:30:24 PM - 104.85.248.75 ─ [13/Mar/2025 02:30:24 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:30:24 PM - 104.85.248.75 ─ [13/Mar/2025 02:30:24 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:30:24 PM - 10.20.14.3 ─ [13/Mar/2025 02:30:24 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a575cead-e662-4f4d-b0c3-81f1438d0388?P1=1742376356&P2=404&P3=2&P4=FZKy3XJBCSpbzfhjQDocie3fv4eEZFu6aBQ3whxWYhQTZUt8tIMlEEUVbaV5EfprrcaXHmjIftjuIHFEXOfZzQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:30:24 PM - 10.20.14.3 ─ [13/Mar/2025 02:30:24 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/a575cead-e662-4f4d-b0c3-81f1438d0388?P1=1742376356&P2=404&P3=2&P4=FZKy3XJBCSpbzfhjQDocie3fv4eEZFu6aBQ3whxWYhQTZUt8tIMlEEUVbaV5EfprrcaXHmjIftjuIHFEXOfZzQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:30:24 PM - 104.85.248.75 ─ [13/Mar/2025 02:30:24 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:30:24 PM - 104.85.248.75 ─ [13/Mar/2025 02:30:24 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:30:24 PM - 104.85.248.75 ─ [13/Mar/2025 02:30:24 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:30:24 PM - 104.85.248.75 ─ [13/Mar/2025 02:30:24 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:30:53 PM - 10.20.14.3 ─ [13/Mar/2025 02:30:53 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1159c5f4-512b-4855-918f-92aa88aa927b?P1=1742239487&P2=404&P3=2&P4=CcSBgc0TY2qtxd9aKenA9OZFFaOWfn4Kkw8kTuKgb33S5Va1uxZySCXpq1ni9t6ITG1vq1VGk3t6ojOwjmy6SQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:30:53 PM - 10.20.14.3 ─ [13/Mar/2025 02:30:53 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1159c5f4-512b-4855-918f-92aa88aa927b?P1=1742239487&P2=404&P3=2&P4=CcSBgc0TY2qtxd9aKenA9OZFFaOWfn4Kkw8kTuKgb33S5Va1uxZySCXpq1ni9t6ITG1vq1VGk3t6ojOwjmy6SQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:30:53 PM - 146.75.54.172 ─ [13/Mar/2025 02:30:53 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:30:53 PM - 146.75.54.172 ─ [13/Mar/2025 02:30:53 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:30:53 PM - 10.20.14.3 ─ [13/Mar/2025 02:30:53 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1159c5f4-512b-4855-918f-92aa88aa927b?P1=1742239487&P2=404&P3=2&P4=CcSBgc0TY2qtxd9aKenA9OZFFaOWfn4Kkw8kTuKgb33S5Va1uxZySCXpq1ni9t6ITG1vq1VGk3t6ojOwjmy6SQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:30:53 PM - 10.20.14.3 ─ [13/Mar/2025 02:30:53 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/1159c5f4-512b-4855-918f-92aa88aa927b?P1=1742239487&P2=404&P3=2&P4=CcSBgc0TY2qtxd9aKenA9OZFFaOWfn4Kkw8kTuKgb33S5Va1uxZySCXpq1ni9t6ITG1vq1VGk3t6ojOwjmy6SQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:30:53 PM - 146.75.54.172 ─ [13/Mar/2025 02:30:53 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:30:53 PM - 146.75.54.172 ─ [13/Mar/2025 02:30:53 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:31:27 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:27 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3df5a073-c0d7-45fb-9474-b90dabffa5eb?P1=1741913621&P2=404&P3=2&P4=j7mpIg%2f9XoZG1UWqnQLv3mik6HGf8chHjpLK%2bhpA8enR4oL7M1tWBnSDwFauyDtGrDgfh%2bHiDU%2bZOcqdJD3zcw%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:31:27 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:27 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3df5a073-c0d7-45fb-9474-b90dabffa5eb?P1=1741913621&P2=404&P3=2&P4=j7mpIg%2f9XoZG1UWqnQLv3mik6HGf8chHjpLK%2bhpA8enR4oL7M1tWBnSDwFauyDtGrDgfh%2bHiDU%2bZOcqdJD3zcw%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:31:27 PM - 146.75.54.172 ─ [13/Mar/2025 02:31:27 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:31:27 PM - 146.75.54.172 ─ [13/Mar/2025 02:31:27 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:31:27 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:27 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3df5a073-c0d7-45fb-9474-b90dabffa5eb?P1=1741913621&P2=404&P3=2&P4=j7mpIg%2f9XoZG1UWqnQLv3mik6HGf8chHjpLK%2bhpA8enR4oL7M1tWBnSDwFauyDtGrDgfh%2bHiDU%2bZOcqdJD3zcw%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:31:27 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:27 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3df5a073-c0d7-45fb-9474-b90dabffa5eb?P1=1741913621&P2=404&P3=2&P4=j7mpIg%2f9XoZG1UWqnQLv3mik6HGf8chHjpLK%2bhpA8enR4oL7M1tWBnSDwFauyDtGrDgfh%2bHiDU%2bZOcqdJD3zcw%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:31:27 PM - 146.75.54.172 ─ [13/Mar/2025 02:31:27 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:31:27 PM - 146.75.54.172 ─ [13/Mar/2025 02:31:27 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:31:34 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:34 PM] "GET ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab?90f2066630d2fd3b" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:31:34 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:34 PM] "GET ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab?90f2066630d2fd3b" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:31:34 PM - 146.75.54.172 ─ [13/Mar/2025 02:31:34 PM] "HTTP Response b'304' b'Not Modified'"
+13/Mar/2025 02:31:34 PM - 146.75.54.172 ─ [13/Mar/2025 02:31:34 PM] "HTTP Response b'304' b'Not Modified'"
+13/Mar/2025 02:31:54 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:54 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:54 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:54 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:54 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:54 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:31:54 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:54 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:31:54 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:54 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:54 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:54 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:54 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:54 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:31:54 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:54 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:31:54 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:54 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:54 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:54 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:54 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:54 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:31:54 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:54 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:31:55 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:55 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:55 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:55 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:55 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:55 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:31:55 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:55 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:31:55 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:55 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:55 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:55 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:55 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:55 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:31:55 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:55 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:31:55 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:55 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:55 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:55 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:55 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:55 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:31:55 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:55 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:31:55 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:55 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:55 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:55 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:55 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:55 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:31:55 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:55 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:31:55 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:55 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:55 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:55 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:55 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:55 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:31:55 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:55 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:31:55 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:55 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:55 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:55 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:55 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:55 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:31:55 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:55 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:31:55 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:55 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:55 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:55 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:56 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:56 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:31:56 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:56 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:31:56 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:56 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:56 PM - 10.20.14.3 ─ [13/Mar/2025 02:31:56 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:31:56 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:56 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:31:56 PM - 184.31.5.159 ─ [13/Mar/2025 02:31:56 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:32:04 PM - 10.20.14.3 ─ [13/Mar/2025 02:32:04 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2132f61f-f790-4ae6-a355-8cf9a1533800?P1=1742404474&P2=404&P3=2&P4=TotJsJQhjdtrpvf1mvc7s0zmtJitvm%2bWnBlFTBfjjr8ovUSBfsF3MGLA0jNVdRtbLaHOu%2fB8lJ3aafkVmFDwoA%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:32:04 PM - 10.20.14.3 ─ [13/Mar/2025 02:32:04 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2132f61f-f790-4ae6-a355-8cf9a1533800?P1=1742404474&P2=404&P3=2&P4=TotJsJQhjdtrpvf1mvc7s0zmtJitvm%2bWnBlFTBfjjr8ovUSBfsF3MGLA0jNVdRtbLaHOu%2fB8lJ3aafkVmFDwoA%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:32:04 PM - 146.75.54.172 ─ [13/Mar/2025 02:32:04 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:32:04 PM - 146.75.54.172 ─ [13/Mar/2025 02:32:04 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:32:04 PM - 10.20.14.3 ─ [13/Mar/2025 02:32:04 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2132f61f-f790-4ae6-a355-8cf9a1533800?P1=1742404474&P2=404&P3=2&P4=TotJsJQhjdtrpvf1mvc7s0zmtJitvm%2bWnBlFTBfjjr8ovUSBfsF3MGLA0jNVdRtbLaHOu%2fB8lJ3aafkVmFDwoA%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:32:04 PM - 10.20.14.3 ─ [13/Mar/2025 02:32:04 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2132f61f-f790-4ae6-a355-8cf9a1533800?P1=1742404474&P2=404&P3=2&P4=TotJsJQhjdtrpvf1mvc7s0zmtJitvm%2bWnBlFTBfjjr8ovUSBfsF3MGLA0jNVdRtbLaHOu%2fB8lJ3aafkVmFDwoA%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:32:04 PM - 146.75.54.172 ─ [13/Mar/2025 02:32:04 PM] "HTTP Response b'206' b'Partial Content'"
+13/Mar/2025 02:32:04 PM - 146.75.54.172 ─ [13/Mar/2025 02:32:04 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:32:04 PM - 146.75.54.172 ─ [13/Mar/2025 02:32:04 PM] "HTTP Response b'206' b'Partial Content'"
+13/Mar/2025 02:32:04 PM - 146.75.54.172 ─ [13/Mar/2025 02:32:04 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:32:05 PM - 10.20.14.3 ─ [13/Mar/2025 02:32:05 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2132f61f-f790-4ae6-a355-8cf9a1533800?P1=1742404474&P2=404&P3=2&P4=TotJsJQhjdtrpvf1mvc7s0zmtJitvm%2bWnBlFTBfjjr8ovUSBfsF3MGLA0jNVdRtbLaHOu%2fB8lJ3aafkVmFDwoA%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:32:05 PM - 10.20.14.3 ─ [13/Mar/2025 02:32:05 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2132f61f-f790-4ae6-a355-8cf9a1533800?P1=1742404474&P2=404&P3=2&P4=TotJsJQhjdtrpvf1mvc7s0zmtJitvm%2bWnBlFTBfjjr8ovUSBfsF3MGLA0jNVdRtbLaHOu%2fB8lJ3aafkVmFDwoA%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:32:05 PM - 146.75.54.172 ─ [13/Mar/2025 02:32:05 PM] "HTTP Response b'206' b'Partial Content'"
+13/Mar/2025 02:32:05 PM - 146.75.54.172 ─ [13/Mar/2025 02:32:05 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:32:05 PM - 146.75.54.172 ─ [13/Mar/2025 02:32:05 PM] "HTTP Response b'206' b'Partial Content'"
+13/Mar/2025 02:32:05 PM - 146.75.54.172 ─ [13/Mar/2025 02:32:05 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:32:31 PM - 10.20.14.3 ─ [13/Mar/2025 02:32:31 PM] "GET edge.microsoft.com/browsernetworktime/time/1/current?cup2key=2:Z6aGv227pXeYceJYRVOrWvTKePxpGlBtAKk_U08_Ehw&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+13/Mar/2025 02:32:31 PM - 10.20.14.3 ─ [13/Mar/2025 02:32:31 PM] "GET edge.microsoft.com/browsernetworktime/time/1/current?cup2key=2:Z6aGv227pXeYceJYRVOrWvTKePxpGlBtAKk_U08_Ehw&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+13/Mar/2025 02:32:31 PM - 204.79.197.239 ─ [13/Mar/2025 02:32:31 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:32:31 PM - 204.79.197.239 ─ [13/Mar/2025 02:32:31 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:32:35 PM - 10.20.14.3 ─ [13/Mar/2025 02:32:35 PM] "GET ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?653c81ce8822aabd" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:32:35 PM - 10.20.14.3 ─ [13/Mar/2025 02:32:35 PM] "GET ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?653c81ce8822aabd" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:32:35 PM - 146.75.54.172 ─ [13/Mar/2025 02:32:35 PM] "HTTP Response b'304' b'Not Modified'"
+13/Mar/2025 02:32:35 PM - 146.75.54.172 ─ [13/Mar/2025 02:32:35 PM] "HTTP Response b'304' b'Not Modified'"
+13/Mar/2025 02:33:44 PM - 10.20.14.3 ─ [13/Mar/2025 02:33:44 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0d597c-a09c-4400-be86-87596dd2e696?P1=1742410117&P2=404&P3=2&P4=bzzruoehe%2bo6vAEMTAkyhOS2OOuMGkb5bS9u93kpNK7JyY49Dn%2bL6WDYQD1hehuNyTQJog3aNL4nZta872wByA%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:33:44 PM - 10.20.14.3 ─ [13/Mar/2025 02:33:44 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0d597c-a09c-4400-be86-87596dd2e696?P1=1742410117&P2=404&P3=2&P4=bzzruoehe%2bo6vAEMTAkyhOS2OOuMGkb5bS9u93kpNK7JyY49Dn%2bL6WDYQD1hehuNyTQJog3aNL4nZta872wByA%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:33:44 PM - 146.75.54.172 ─ [13/Mar/2025 02:33:44 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:33:44 PM - 146.75.54.172 ─ [13/Mar/2025 02:33:44 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:33:44 PM - 10.20.14.3 ─ [13/Mar/2025 02:33:44 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0d597c-a09c-4400-be86-87596dd2e696?P1=1742410117&P2=404&P3=2&P4=bzzruoehe%2bo6vAEMTAkyhOS2OOuMGkb5bS9u93kpNK7JyY49Dn%2bL6WDYQD1hehuNyTQJog3aNL4nZta872wByA%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:33:44 PM - 10.20.14.3 ─ [13/Mar/2025 02:33:44 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0d597c-a09c-4400-be86-87596dd2e696?P1=1742410117&P2=404&P3=2&P4=bzzruoehe%2bo6vAEMTAkyhOS2OOuMGkb5bS9u93kpNK7JyY49Dn%2bL6WDYQD1hehuNyTQJog3aNL4nZta872wByA%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:33:44 PM - 146.75.54.172 ─ [13/Mar/2025 02:33:44 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:33:44 PM - 146.75.54.172 ─ [13/Mar/2025 02:33:44 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:33:44 PM - 146.75.54.172 ─ [13/Mar/2025 02:33:44 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:33:44 PM - 146.75.54.172 ─ [13/Mar/2025 02:33:44 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:34:06 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:06 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/68591036-2289-4858-9f7f-9149e89c8a08?P1=1742413713&P2=404&P3=2&P4=NFvHwua0NRNVVP%2fwqILiHBcwzUMxY1Znv1Erdj2RmpTlcH2778q5xcDZOSY6HGZ%2fBpG5tmyY8bziOed3aXiZmQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:34:06 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:06 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/68591036-2289-4858-9f7f-9149e89c8a08?P1=1742413713&P2=404&P3=2&P4=NFvHwua0NRNVVP%2fwqILiHBcwzUMxY1Znv1Erdj2RmpTlcH2778q5xcDZOSY6HGZ%2fBpG5tmyY8bziOed3aXiZmQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:34:06 PM - 146.75.54.172 ─ [13/Mar/2025 02:34:06 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:34:06 PM - 146.75.54.172 ─ [13/Mar/2025 02:34:06 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:34:06 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:06 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/68591036-2289-4858-9f7f-9149e89c8a08?P1=1742413713&P2=404&P3=2&P4=NFvHwua0NRNVVP%2fwqILiHBcwzUMxY1Znv1Erdj2RmpTlcH2778q5xcDZOSY6HGZ%2fBpG5tmyY8bziOed3aXiZmQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:34:06 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:06 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/68591036-2289-4858-9f7f-9149e89c8a08?P1=1742413713&P2=404&P3=2&P4=NFvHwua0NRNVVP%2fwqILiHBcwzUMxY1Znv1Erdj2RmpTlcH2778q5xcDZOSY6HGZ%2fBpG5tmyY8bziOed3aXiZmQ%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:34:06 PM - 146.75.54.172 ─ [13/Mar/2025 02:34:06 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:34:06 PM - 146.75.54.172 ─ [13/Mar/2025 02:34:06 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:34:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:14 PM] "GET ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBT3xL4LQLXDRDM9P665TW442vrsUQQUReuir%2FSSy4IxLVGLp6chnfNtyA8CEAEkCvseOAuKFvFLcZ3008A%3D" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:34:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:14 PM] "GET ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBT3xL4LQLXDRDM9P665TW442vrsUQQUReuir%2FSSy4IxLVGLp6chnfNtyA8CEAEkCvseOAuKFvFLcZ3008A%3D" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:34:14 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:14 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:34:14 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:14 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:34:14 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:14 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:34:14 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:14 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:34:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:14 PM] "GET ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBTfIs%2BLjDtGwQ09XEB1Yeq%2BtX%2BBgQQU7NfjgtJxXWRM3y5nP%2Be6mK4cD08CEAitQLJg0pxMn17Nqb2Trtk%3D" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:34:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:14 PM] "GET ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBTfIs%2BLjDtGwQ09XEB1Yeq%2BtX%2BBgQQU7NfjgtJxXWRM3y5nP%2Be6mK4cD08CEAitQLJg0pxMn17Nqb2Trtk%3D" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:34:14 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:14 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:34:14 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:14 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:34:14 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:14 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:34:14 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:14 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:34:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:14 PM] "GET ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBSRXerF0eFeSWRripTgTkcJWMm7iQQUaDfg67Y7%2BF8Rhvv%2BYXsIiGX0TkICEAc3sNDc3KuNeNL0DLEi%2BT8%3D" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:34:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:14 PM] "GET ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBSRXerF0eFeSWRripTgTkcJWMm7iQQUaDfg67Y7%2BF8Rhvv%2BYXsIiGX0TkICEAc3sNDc3KuNeNL0DLEi%2BT8%3D" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:34:14 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:14 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:34:14 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:14 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:34:14 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:14 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:34:14 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:14 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:34:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:14 PM] "GET ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBT3xL4LQLXDRDM9P665TW442vrsUQQUReuir%2FSSy4IxLVGLp6chnfNtyA8CEA6bGI750C3n79tQ4ghAGFo%3D" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:34:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:14 PM] "GET ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBT3xL4LQLXDRDM9P665TW442vrsUQQUReuir%2FSSy4IxLVGLp6chnfNtyA8CEA6bGI750C3n79tQ4ghAGFo%3D" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:34:14 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:14 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:34:14 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:14 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:34:14 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:14 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:34:14 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:14 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:34:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:25 PM] "GET ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBSAUQYBMq2awn1Rh6Doh%2FsBYgFV7gQUA95QNVbRTLtm8KPiGxvDl7I90VUCEAbY2QTVWENG9oovp1QifsQ%3D" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:34:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:25 PM] "GET ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBSAUQYBMq2awn1Rh6Doh%2FsBYgFV7gQUA95QNVbRTLtm8KPiGxvDl7I90VUCEAbY2QTVWENG9oovp1QifsQ%3D" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:34:25 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:34:25 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:25 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:34:25 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:34:25 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:25 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:34:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:25 PM] "GET ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBTk45WiKdPUwcMf8JgMC07ACYqr2AQUt2ui6qiqhIx56rTaD5iyxZV2ufQCEAz%2F69IbX%2Fl5So4mJKV%2FSKI%3D" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:34:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:25 PM] "GET ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBTk45WiKdPUwcMf8JgMC07ACYqr2AQUt2ui6qiqhIx56rTaD5iyxZV2ufQCEAz%2F69IbX%2Fl5So4mJKV%2FSKI%3D" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:34:25 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:34:25 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:25 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:34:25 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:34:25 PM - 23.40.158.218 ─ [13/Mar/2025 02:34:25 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:34:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:26 PM] "GET x1.i.lencr.org/" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:34:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:26 PM] "GET x1.i.lencr.org/" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:34:26 PM - 23.203.161.57 ─ [13/Mar/2025 02:34:26 PM] "HTTP Response b'307' b'Temporary Redirect'"
+13/Mar/2025 02:34:26 PM - 23.203.161.57 ─ [13/Mar/2025 02:34:26 PM] "HTTP Response b'307' b'Temporary Redirect'"
+13/Mar/2025 02:34:41 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:41 PM] "GET ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab?996ba1d1e01b50d2" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:34:41 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:41 PM] "GET ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab?996ba1d1e01b50d2" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:34:41 PM - 146.75.54.172 ─ [13/Mar/2025 02:34:41 PM] "HTTP Response b'304' b'Not Modified'"
+13/Mar/2025 02:34:41 PM - 146.75.54.172 ─ [13/Mar/2025 02:34:41 PM] "HTTP Response b'304' b'Not Modified'"
+13/Mar/2025 02:34:41 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:41 PM] "GET ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/CABD2A79A1076A31F21D253635CB039D4329A5E8.crt?5ffe3ed716ac2e08" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:34:41 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:41 PM] "GET ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/CABD2A79A1076A31F21D253635CB039D4329A5E8.crt?5ffe3ed716ac2e08" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:34:41 PM - 146.75.54.172 ─ [13/Mar/2025 02:34:41 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:34:41 PM - 146.75.54.172 ─ [13/Mar/2025 02:34:41 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:34:41 PM - 146.75.54.172 ─ [13/Mar/2025 02:34:41 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:34:41 PM - 146.75.54.172 ─ [13/Mar/2025 02:34:41 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:34:41 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:41 PM] "GET x1.c.lencr.org/" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:34:41 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:41 PM] "GET x1.c.lencr.org/" Microsoft-CryptoAPI/10.0
+13/Mar/2025 02:34:41 PM - 23.203.161.57 ─ [13/Mar/2025 02:34:41 PM] "HTTP Response b'307' b'Temporary Redirect'"
+13/Mar/2025 02:34:41 PM - 23.203.161.57 ─ [13/Mar/2025 02:34:41 PM] "HTTP Response b'307' b'Temporary Redirect'"
+13/Mar/2025 02:34:44 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:44 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:44 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:44 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:44 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:44 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:34:44 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:44 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:34:44 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:44 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:44 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:44 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:44 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:44 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:34:44 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:44 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:34:44 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:44 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:44 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:44 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:44 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:44 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:34:44 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:44 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:34:44 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:44 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:44 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:44 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:45 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:45 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:34:45 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:45 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:34:45 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:45 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:45 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:45 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:45 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:45 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:34:45 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:45 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:34:45 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:45 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:45 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:45 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:45 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:45 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:34:45 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:45 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:34:45 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:45 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:45 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:45 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:45 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:45 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:34:45 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:45 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:34:45 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:45 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:45 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:45 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:45 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:45 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:34:45 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:45 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:34:45 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:45 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:45 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:45 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:45 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:45 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:34:45 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:45 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:34:45 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:45 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:45 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:45 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:45 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:45 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:34:45 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:45 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:34:45 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:45 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:45 PM - 10.20.14.3 ─ [13/Mar/2025 02:34:45 PM] "POST go.microsoft.com/fwlink/?LinkID=252669&clcid=0x409" MICROSOFT_DEVICE_METADATA_RETRIEVAL_CLIENT
+13/Mar/2025 02:34:45 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:45 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:34:45 PM - 184.31.5.159 ─ [13/Mar/2025 02:34:45 PM] "HTTP Response b'403' b'Forbidden'"
+13/Mar/2025 02:35:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:14 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959185_faa5ddc7cf24496ec51a0e9defab232cd73a7060.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:14 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959185_faa5ddc7cf24496ec51a0e9defab232cd73a7060.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:14 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:14 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:14 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:14 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:14 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959184_e307a0a38eee8dc85ed4a7e730e8e49d7a035835.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:14 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959184_e307a0a38eee8dc85ed4a7e730e8e49d7a035835.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:14 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:14 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:14 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:14 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:14 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42958957_3ee0f1e0c7d3560b3ef3c13d0f8f61aa65bdcc31.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:14 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42958957_3ee0f1e0c7d3560b3ef3c13d0f8f61aa65bdcc31.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:14 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:14 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:14 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:14 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:14 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42958956_c22a31f40785b09597b728b334562310315d6e75.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:14 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42958956_c22a31f40785b09597b728b334562310315d6e75.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:14 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:14 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:14 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:14 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:14 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42958955_10476fe67ddc66fa8b0ad9e062fb3a91d64710c9.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:14 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42958955_10476fe67ddc66fa8b0ad9e062fb3a91d64710c9.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:14 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:14 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:14 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:14 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:14 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42958948_2308d7253ad3b0a1a02d47774a91353e2c24fd72.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:14 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42958948_2308d7253ad3b0a1a02d47774a91353e2c24fd72.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:14 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:14 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:14 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:14 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:14 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42958947_1fbdbb8f8449fa546631356fcef1418738f69997.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:14 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:14 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42958947_1fbdbb8f8449fa546631356fcef1418738f69997.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42958946_65dc7dd9bf574c433d4f57c82937ef4a884b3c86.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42958946_65dc7dd9bf574c433d4f57c82937ef4a884b3c86.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42958937_2a71e0cba7583ccf64bfb12747b05979abddf9fe.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42958937_2a71e0cba7583ccf64bfb12747b05979abddf9fe.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42958936_bb1019c5b5a5596dca42ac6a2a2ae30c1754f6f5.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42958936_bb1019c5b5a5596dca42ac6a2a2ae30c1754f6f5.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957748_2cde127340f77793d1bf422ee88cd4263b886a1f.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957748_2cde127340f77793d1bf422ee88cd4263b886a1f.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957747_26779227c72b1e75422818eb75d9c032acccb4f2.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957747_26779227c72b1e75422818eb75d9c032acccb4f2.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957742_8589ec70fe72110b1a38cd20b74dafb8718ed808.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957742_8589ec70fe72110b1a38cd20b74dafb8718ed808.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957741_8db375d8ebedec8ab0b15462dac7bc77c548dca5.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957741_8db375d8ebedec8ab0b15462dac7bc77c548dca5.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957735_ba555285d4372312eff961a4670822f98cccad66.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957735_ba555285d4372312eff961a4670822f98cccad66.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957734_43c9dfc6a59657057f76b179e43f3e2554af1455.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957734_43c9dfc6a59657057f76b179e43f3e2554af1455.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957729_3bb34b31858627a1f285215886a35f9809681678.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957729_3bb34b31858627a1f285215886a35f9809681678.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957728_1ae06c7980a490be808991d8d58bd1da8f0ecd0f.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957728_1ae06c7980a490be808991d8d58bd1da8f0ecd0f.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957722_1ba6ac5de1b0b6798ad89264e32c55e8667b80f9.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957722_1ba6ac5de1b0b6798ad89264e32c55e8667b80f9.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957721_2e27baa37906d6b2275bcf164eaa6213024bff51.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957721_2e27baa37906d6b2275bcf164eaa6213024bff51.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957716_f12dc270f545ae75910a909368d23f2ba8002bc6.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957716_f12dc270f545ae75910a909368d23f2ba8002bc6.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:15 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957715_1ae13af0a8261b87123e56f5b83152fe56803482.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:15 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:15 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957715_1ae13af0a8261b87123e56f5b83152fe56803482.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957709_eb308c7092d32ca01b5deafabe543daff6f071e2.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957709_eb308c7092d32ca01b5deafabe543daff6f071e2.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957708_75d84a8256c27aba745c98dfca4aa3bbb3972160.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957708_75d84a8256c27aba745c98dfca4aa3bbb3972160.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957703_6856af1a8cda1f156d7d62163fb63febdd41d0a5.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957703_6856af1a8cda1f156d7d62163fb63febdd41d0a5.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957702_60edf381c70b6dd1bbef16a1a11d6c6eaf01b826.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957702_60edf381c70b6dd1bbef16a1a11d6c6eaf01b826.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957696_9960d746136106ab14d846374958af18198a8709.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957696_9960d746136106ab14d846374958af18198a8709.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957695_7704b08c7c1650350db9ebb1a28b0aabbbb713aa.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957695_7704b08c7c1650350db9ebb1a28b0aabbbb713aa.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957690_bf0f8094569a507461f23203fd082f1a8c60f4ad.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957690_bf0f8094569a507461f23203fd082f1a8c60f4ad.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957689_2af750175fe484b5062caa4ac4a629fea8a0fde9.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957689_2af750175fe484b5062caa4ac4a629fea8a0fde9.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957683_9c378bc57dfcfe06161fca2c5e2e73edcd4b5a11.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957683_9c378bc57dfcfe06161fca2c5e2e73edcd4b5a11.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957682_d095e168e12bba1c3b4799d567908ff639915cb8.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957682_d095e168e12bba1c3b4799d567908ff639915cb8.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957677_615f39af4c2b87df4dd4f81143bb4813ebcf0106.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957677_615f39af4c2b87df4dd4f81143bb4813ebcf0106.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957676_bd13b7eab72a1a27ca32846db7e34fae64c24eb1.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957676_bd13b7eab72a1a27ca32846db7e34fae64c24eb1.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957670_dbfa0357ae11749b1348478fb198c523776fa3c5.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957670_dbfa0357ae11749b1348478fb198c523776fa3c5.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957669_e694295073b6cfba2e8062eb939bb7d3d528a7f9.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957669_e694295073b6cfba2e8062eb939bb7d3d528a7f9.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957664_512717560e1fc9a6ce9c305b0d7a739b065f6c77.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957664_512717560e1fc9a6ce9c305b0d7a739b065f6c77.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:16 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957663_161836066c8105aa2f7bfbb41c3773ce3275033c.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:16 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:16 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957663_161836066c8105aa2f7bfbb41c3773ce3275033c.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:17 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:17 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:17 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:17 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:17 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:17 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957657_7d74d1187cd5117ae432dad8c5e62ce7b7d215ef.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:17 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:17 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957657_7d74d1187cd5117ae432dad8c5e62ce7b7d215ef.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:17 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:17 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:17 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:17 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:17 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:17 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957656_f35bc2a864b2cc281da9dce70d52eb1735363dba.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:17 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:17 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957656_f35bc2a864b2cc281da9dce70d52eb1735363dba.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:17 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:17 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:17 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:17 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:17 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:17 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957652_143004a30469f91690ab82837b2a5a52f6c51718.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:17 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:17 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957652_143004a30469f91690ab82837b2a5a52f6c51718.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:17 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:17 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:17 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:17 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:17 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:17 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957648_1e59914727b80a8cf375173be8051ba8d0505087.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:17 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:17 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957648_1e59914727b80a8cf375173be8051ba8d0505087.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:17 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:17 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:17 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:17 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:17 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:17 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957647_320ba190aecf3a3610c52c751b28b4177835a519.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:17 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:17 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957647_320ba190aecf3a3610c52c751b28b4177835a519.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:17 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:17 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:17 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:17 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:17 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:17 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957643_6522d8323684608318014b555526bb7e2e9d836b.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:17 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:17 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957643_6522d8323684608318014b555526bb7e2e9d836b.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:17 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:17 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:17 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:17 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:17 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:17 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957037_c7beaf2eacab91f2072080cab5473ee6fdb2d99b.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:17 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:17 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957037_c7beaf2eacab91f2072080cab5473ee6fdb2d99b.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:17 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:17 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:17 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:17 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:17 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:17 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957036_1216e5ad4da892caa59d425e67b07ddfb06a3c64.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:17 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:17 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957036_1216e5ad4da892caa59d425e67b07ddfb06a3c64.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:17 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:17 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:17 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:17 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:17 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:17 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957035_6fcf6b01a81978e6838add14b9efcf79f174756b.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:17 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:17 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957035_6fcf6b01a81978e6838add14b9efcf79f174756b.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:17 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:17 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:17 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:17 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:17 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:17 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957030_0ae8dbf294f9a02694d1b40945226fdf5cfe6922.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:17 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:17 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957030_0ae8dbf294f9a02694d1b40945226fdf5cfe6922.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957025_4c7ef34ca93907f6f1f6bed0e9858551ff9fef9f.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957025_4c7ef34ca93907f6f1f6bed0e9858551ff9fef9f.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957024_87c8f530ff3a63e5dc46a67a41bd7da59b0e9bb1.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957024_87c8f530ff3a63e5dc46a67a41bd7da59b0e9bb1.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957023_e1d17d7ab3a2c52634c6f5df8f17716655582dc5.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957023_e1d17d7ab3a2c52634c6f5df8f17716655582dc5.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957018_79196a3d4d94b45ddfc87b1f601c1f59ccddbc02.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42957018_79196a3d4d94b45ddfc87b1f601c1f59ccddbc02.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959760_e13588feef351cde31e48615dd88a2a1cd0ec28f.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959760_e13588feef351cde31e48615dd88a2a1cd0ec28f.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959717_35dbf208072064208392dd84cdb7ef9c8a6e5623.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959717_35dbf208072064208392dd84cdb7ef9c8a6e5623.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959599_b513fba7edad48db126ac71c4f2d28015ef31e46.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959599_b513fba7edad48db126ac71c4f2d28015ef31e46.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959522_be210209c64a0bb8baf00b11de03c7db64093299.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959522_be210209c64a0bb8baf00b11de03c7db64093299.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959244_2f137abe3d37536e08385e5d1be04fa0375230d9.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959244_2f137abe3d37536e08385e5d1be04fa0375230d9.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959206_ab0cd2d0e59edb8279dd70e632a97aa2d53f656a.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959206_ab0cd2d0e59edb8279dd70e632a97aa2d53f656a.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42958958_95adb47248357e21c929e011696da10f8adad339.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42958958_95adb47248357e21c929e011696da10f8adad339.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42958921_0e4537b27a69ce76af6c0cf7ca8c95f77962c2a3.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42958921_0e4537b27a69ce76af6c0cf7ca8c95f77962c2a3.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:18 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42958840_39af4747552e2c2fa953f3264ddf3edcd1bdffde.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:18 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:18 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42958840_39af4747552e2c2fa953f3264ddf3edcd1bdffde.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:19 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:19 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:19 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:19 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:19 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:19 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42958505_5edf3cff2ee6a463216c3e0d4695b8646f1b8053.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:19 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:19 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42958505_5edf3cff2ee6a463216c3e0d4695b8646f1b8053.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:19 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:19 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:19 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:19 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:20 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:20 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959741_3cee66d67faa5448374c760b79553d9614df2769.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:20 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:20 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959741_3cee66d67faa5448374c760b79553d9614df2769.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:20 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:20 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:20 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:20 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:20 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:20 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959740_f21b73b40a4f95fd35a08bb942378fff2a3d3635.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:20 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:20 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959740_f21b73b40a4f95fd35a08bb942378fff2a3d3635.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:20 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:20 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:20 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:20 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:20 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:20 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959739_39732d116773e2601f5fc6daf3bff2eeee64c497.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:20 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:20 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959739_39732d116773e2601f5fc6daf3bff2eeee64c497.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:21 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959738_24722face5c17bf4652ef00f30390ffc1e5b5708.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:21 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959738_24722face5c17bf4652ef00f30390ffc1e5b5708.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:21 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959737_223b5bd079b88144ebde0fae8ba755c915ee292c.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:21 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959737_223b5bd079b88144ebde0fae8ba755c915ee292c.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:21 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959736_015aabeec7ac5d848c7658cfbdcf11a24dc45016.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:21 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959736_015aabeec7ac5d848c7658cfbdcf11a24dc45016.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:21 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959735_87192a8d3507a1cfa2c4fdece5613dff539fc241.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:21 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959735_87192a8d3507a1cfa2c4fdece5613dff539fc241.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:21 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959734_b4fc8ee9ebaf9f4bebe9740409810531fe392ad2.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:21 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959734_b4fc8ee9ebaf9f4bebe9740409810531fe392ad2.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 02:35:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:21 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959733_d1bb684fd04875e5d8d872354e294808009e90e9.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:21 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959733_d1bb684fd04875e5d8d872354e294808009e90e9.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:21 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959732_3ff1ddf57b0abf8821d0be22d9c23af3b8c7dfcb.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:21 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959732_3ff1ddf57b0abf8821d0be22d9c23af3b8c7dfcb.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:21 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959731_d1c502e68165974551719f602142c74eb1f61bd6.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:21 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959731_d1c502e68165974551719f602142c74eb1f61bd6.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:21 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959730_01e1a39c202147d441d7aa424fc0fac88f5821c6.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:21 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959730_01e1a39c202147d441d7aa424fc0fac88f5821c6.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:21 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959721_244830ecd57e5d6c6646e29e0681025c13672a04.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:21 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959721_244830ecd57e5d6c6646e29e0681025c13672a04.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:21 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:21 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:21 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959720_c19abb7e1862a2a57b3b459ef0dcc79a3b9f0446.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:22 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:22 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959720_c19abb7e1862a2a57b3b459ef0dcc79a3b9f0446.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:22 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:22 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:22 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:22 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:22 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:22 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959678_52f2660be93ab27af2fd7acc5c44562a54f84ded.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:22 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:22 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959678_52f2660be93ab27af2fd7acc5c44562a54f84ded.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:22 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:22 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:22 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:22 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:22 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:22 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959677_9bf3fc597abd07071844543103df192f0eb59bd0.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:22 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:22 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959677_9bf3fc597abd07071844543103df192f0eb59bd0.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:22 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:22 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:22 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:22 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:22 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:22 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959580_1a2dca080e73f3d1ef373f10c2095be5abe61710.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:22 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:22 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959580_1a2dca080e73f3d1ef373f10c2095be5abe61710.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:22 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:22 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:22 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:22 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:23 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:23 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959579_682d52e3f7b85cc1055d732475b62b59792d642c.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:23 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:23 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959579_682d52e3f7b85cc1055d732475b62b59792d642c.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:23 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:23 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:23 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:23 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:23 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:23 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959578_bb8190ca74cb9948df92b133275fe3b119d7d438.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:23 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:23 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959578_bb8190ca74cb9948df92b133275fe3b119d7d438.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:23 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:23 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:23 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:23 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:23 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:23 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959577_e406d3ab1db02b67d169cead4d711ca70b0e1a61.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:23 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:23 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959577_e406d3ab1db02b67d169cead4d711ca70b0e1a61.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:23 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:23 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:23 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:23 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:24 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:24 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959576_68f939abac10ada88868f794a51917cf014ab716.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:24 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:24 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959576_68f939abac10ada88868f794a51917cf014ab716.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:24 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:24 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:24 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:24 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:24 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:24 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959575_8828920955f09aba56e65c15a002351a483e911c.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:24 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:24 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959575_8828920955f09aba56e65c15a002351a483e911c.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:24 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:24 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:24 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:24 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:24 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:24 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959574_36ff5ab6abf9c1dc2176e9d8402a4ec3a3e8e0a2.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:24 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:24 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959574_36ff5ab6abf9c1dc2176e9d8402a4ec3a3e8e0a2.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:24 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:24 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:24 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:24 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:24 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:24 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959573_b50d60db0cf15b1bc8ab3bd319cbd03fe2a7c5c9.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:24 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:24 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959573_b50d60db0cf15b1bc8ab3bd319cbd03fe2a7c5c9.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:25 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:25 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:25 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959572_f39441e7b729639b229256c175336cddcea54c6c.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:25 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959572_f39441e7b729639b229256c175336cddcea54c6c.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:25 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:25 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:25 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959571_4be54b3fd4ea668bf416ff15129aec0e40d6d88b.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:25 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959571_4be54b3fd4ea668bf416ff15129aec0e40d6d88b.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:25 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:25 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:25 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959570_f3580b181960d0a5efd4f92ccc75dab67c6fefe6.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:25 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959570_f3580b181960d0a5efd4f92ccc75dab67c6fefe6.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:25 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:25 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:25 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959569_b9a2ed308cad80ff06634293e6c0c559f8a843c2.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:25 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959569_b9a2ed308cad80ff06634293e6c0c559f8a843c2.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:25 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:25 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:25 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959560_47b61707486f8e363257c396e1b29ee1fa485230.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:25 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959560_47b61707486f8e363257c396e1b29ee1fa485230.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:25 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:25 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:25 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959559_b28a11cfb9f144e3d3e760f3c90444b652793f95.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:25 PM] "GET download.windowsupdate.com/c/msdownload/update/others/2025/03/42959559_b28a11cfb9f144e3d3e760f3c90444b652793f95.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:25 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:25 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:25 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959489_5ebc9547b942f39e8ae0ca46441406a7513f86f5.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:25 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959489_5ebc9547b942f39e8ae0ca46441406a7513f86f5.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:25 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:25 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:25 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959488_58eace4ae87a180da6d0b8e2c23617a69e5d69de.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:25 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959488_58eace4ae87a180da6d0b8e2c23617a69e5d69de.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:25 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:25 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:25 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:25 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959223_af91bf2ef5dd36dbe70eccb824b8b3244db59c7e.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:25 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:25 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959223_af91bf2ef5dd36dbe70eccb824b8b3244db59c7e.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959222_956d7891c397eb1bdbbd78706ad808e5d15c6f01.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959222_956d7891c397eb1bdbbd78706ad808e5d15c6f01.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959221_ab03ef8483bb85fccb9b93ca82e37cbd1d79ae56.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959221_ab03ef8483bb85fccb9b93ca82e37cbd1d79ae56.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959220_2c71b739732edf1421c5bd24db1b498c7363ce5a.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959220_2c71b739732edf1421c5bd24db1b498c7363ce5a.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959219_f8172dcd918e4bc03fe81987c443a9cae59e81af.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959219_f8172dcd918e4bc03fe81987c443a9cae59e81af.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0d597c-a09c-4400-be86-87596dd2e696?P1=1742404484&P2=404&P3=2&P4=clmvnOTN%2bkDuOmTkskDnMGapDd2aBKHJE2xsZKsWGIfqPBM3NTZF9Dj96R5uh7YSfJLQHjIWBTJ%2bS1YLjZ01ug%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "HEAD msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0d597c-a09c-4400-be86-87596dd2e696?P1=1742404484&P2=404&P3=2&P4=clmvnOTN%2bkDuOmTkskDnMGapDd2aBKHJE2xsZKsWGIfqPBM3NTZF9Dj96R5uh7YSfJLQHjIWBTJ%2bS1YLjZ01ug%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959218_8b304941e6e1ad1c8731ab1acb0ab6deea9d7f00.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959218_8b304941e6e1ad1c8731ab1acb0ab6deea9d7f00.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:26 PM - 146.75.54.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 146.75.54.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959217_44cdf27c158729ceaad9febb996eda717f3a6c5e.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959217_44cdf27c158729ceaad9febb996eda717f3a6c5e.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959216_d14e63445e66de81a65112398eacce53e5f5f733.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959216_d14e63445e66de81a65112398eacce53e5f5f733.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959215_ec63336a79d2eb47dc72d30003e8673771f203bf.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959215_ec63336a79d2eb47dc72d30003e8673771f203bf.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959214_ba7a61fc28960a7c5cc96c0c6229899a75cba681.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959214_ba7a61fc28960a7c5cc96c0c6229899a75cba681.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0d597c-a09c-4400-be86-87596dd2e696?P1=1742404484&P2=404&P3=2&P4=clmvnOTN%2bkDuOmTkskDnMGapDd2aBKHJE2xsZKsWGIfqPBM3NTZF9Dj96R5uh7YSfJLQHjIWBTJ%2bS1YLjZ01ug%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0d597c-a09c-4400-be86-87596dd2e696?P1=1742404484&P2=404&P3=2&P4=clmvnOTN%2bkDuOmTkskDnMGapDd2aBKHJE2xsZKsWGIfqPBM3NTZF9Dj96R5uh7YSfJLQHjIWBTJ%2bS1YLjZ01ug%3d%3d" Microsoft BITS/7.8
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959211_dba1ab02981d61244b0ba448a660c07bca31deb4.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:26 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:26 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959211_dba1ab02981d61244b0ba448a660c07bca31deb4.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:26 PM - 146.75.54.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 146.75.54.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:26 PM - 199.232.82.172 ─ [13/Mar/2025 02:35:26 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 02:35:27 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:27 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959210_a97d10d0ed42bfe9ae1601fbc88acf15b002593e.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:27 PM - 10.20.14.3 ─ [13/Mar/2025 02:35:27 PM] "GET download.windowsupdate.com/d/msdownload/update/others/2025/03/42959210_a97d10d0ed42bfe9ae1601fbc88acf15b002593e.cab" Windows-Update-Agent/10.0.10011.16384 Client-Protocol/2.0
+13/Mar/2025 02:35:27 PM - Sniffing stopped by user.
+13/Mar/2025 04:51:57 PM - Started sniffing on interface eth0 with filter 'tcp port 80'
+13/Mar/2025 04:51:58 PM - Sniffing stopped by user.
+13/Mar/2025 04:54:28 PM - Started sniffing on interface eth0 with filter 'tcp port 80'
+13/Mar/2025 04:55:21 PM - Sniffing stopped by user.
+13/Mar/2025 04:55:22 PM - Started sniffing on interface eth0 with filter 'tcp port 80'
+13/Mar/2025 04:58:38 PM - Sniffing stopped by user.
+13/Mar/2025 04:58:40 PM - Started sniffing on interface eth0 with filter 'tcp port 80'
+13/Mar/2025 04:59:34 PM - Sniffing stopped by user.
+13/Mar/2025 04:59:37 PM - Started sniffing on interface eth0 with filter 'tcp port 80'
+13/Mar/2025 04:59:45 PM - Sniffing stopped by user.
+13/Mar/2025 05:00:43 PM - Started sniffing on interface eth0 with filter 'tcp port 80'
+13/Mar/2025 05:01:06 PM - 10.20.14.5 ─ [13/Mar/2025 05:01:06 PM] "GET detectportal.firefox.com/canonical.html" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:01:06 PM - 34.107.221.82 ─ [13/Mar/2025 05:01:06 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 05:01:07 PM - 10.20.14.5 ─ [13/Mar/2025 05:01:07 PM] "GET detectportal.firefox.com/success.txt?ipv4" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:01:07 PM - 34.107.221.82 ─ [13/Mar/2025 05:01:07 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 05:01:07 PM - 10.20.14.5 ─ [13/Mar/2025 05:01:07 PM] "POST r11.o.lencr.org/" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:01:07 PM - 10.20.14.5 ─ [13/Mar/2025 05:01:07 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:01:07 PM - 10.20.14.5 ─ [13/Mar/2025 05:01:07 PM] "POST r11.o.lencr.org/" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:01:07 PM - 10.20.14.5 ─ [13/Mar/2025 05:01:07 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:01:07 PM - 2.16.149.151 ─ [13/Mar/2025 05:01:07 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 05:01:07 PM - 2.16.149.151 ─ [13/Mar/2025 05:01:07 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:01:07 PM - 2.16.149.151 ─ [13/Mar/2025 05:01:07 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 05:01:07 PM - 2.16.149.151 ─ [13/Mar/2025 05:01:07 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:01:07 PM - 10.20.14.5 ─ [13/Mar/2025 05:01:07 PM] "POST r10.o.lencr.org/" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:01:07 PM - 10.20.14.5 ─ [13/Mar/2025 05:01:07 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:01:07 PM - 10.20.14.5 ─ [13/Mar/2025 05:01:07 PM] "POST o.pki.goog/wr2" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:01:07 PM - 10.20.14.5 ─ [13/Mar/2025 05:01:07 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:01:07 PM - 2.16.149.151 ─ [13/Mar/2025 05:01:07 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 05:01:07 PM - 2.16.149.151 ─ [13/Mar/2025 05:01:07 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:01:07 PM - 10.20.14.5 ─ [13/Mar/2025 05:01:07 PM] "GET detectportal.firefox.com/success.txt?ipv4" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:01:07 PM - 172.217.171.195 ─ [13/Mar/2025 05:01:07 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 05:01:07 PM - 172.217.171.195 ─ [13/Mar/2025 05:01:07 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:01:07 PM - 10.20.14.5 ─ [13/Mar/2025 05:01:07 PM] "POST r10.o.lencr.org/" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:01:07 PM - 10.20.14.5 ─ [13/Mar/2025 05:01:07 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:01:07 PM - 34.107.221.82 ─ [13/Mar/2025 05:01:07 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 05:01:07 PM - 2.16.149.151 ─ [13/Mar/2025 05:01:07 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 05:01:07 PM - 2.16.149.151 ─ [13/Mar/2025 05:01:07 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:01:37 PM - 10.20.14.5 ─ [13/Mar/2025 05:01:37 PM] "POST r10.o.lencr.org/" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:01:37 PM - 10.20.14.5 ─ [13/Mar/2025 05:01:37 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:01:37 PM - 2.16.149.151 ─ [13/Mar/2025 05:01:37 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 05:01:37 PM - 2.16.149.151 ─ [13/Mar/2025 05:01:37 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:01:37 PM - 10.20.14.5 ─ [13/Mar/2025 05:01:37 PM] "POST r10.o.lencr.org/" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:01:37 PM - 10.20.14.5 ─ [13/Mar/2025 05:01:37 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:01:38 PM - 2.16.149.151 ─ [13/Mar/2025 05:01:38 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 05:01:38 PM - 2.16.149.151 ─ [13/Mar/2025 05:01:38 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:01:38 PM - 10.20.14.5 ─ [13/Mar/2025 05:01:38 PM] "POST ocsp.digicert.com/" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:01:38 PM - 10.20.14.5 ─ [13/Mar/2025 05:01:38 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:01:38 PM - 23.40.158.218 ─ [13/Mar/2025 05:01:38 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 05:01:38 PM - 23.40.158.218 ─ [13/Mar/2025 05:01:38 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:02:08 PM - 10.20.14.5 ─ [13/Mar/2025 05:02:08 PM] "GET detectportal.firefox.com/canonical.html" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:02:08 PM - 34.107.221.82 ─ [13/Mar/2025 05:02:08 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 05:02:08 PM - 10.20.14.5 ─ [13/Mar/2025 05:02:08 PM] "GET detectportal.firefox.com/success.txt?ipv4" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:02:08 PM - 34.107.221.82 ─ [13/Mar/2025 05:02:08 PM] "HTTP Response b'200' b'OK'"
+13/Mar/2025 05:03:40 PM - Sniffing stopped by user.
+13/Mar/2025 05:03:44 PM - Started sniffing on interface eth0 with filter 'tcp port 80'
+13/Mar/2025 05:03:47 PM - Sniffing stopped by user.
+13/Mar/2025 05:05:53 PM - Started sniffing on interface eth0 with filter 'tcp port 80'
+13/Mar/2025 05:05:57 PM - 10.20.14.5 ─ [13/Mar/2025 05:05:57 PM] "POST o.pki.goog/wr2" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:05:57 PM - 10.20.14.5 ─ [13/Mar/2025 05:05:57 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:05:57 PM - 10.20.14.5 ─ [13/Mar/2025 05:05:57 PM] "POST o.pki.goog/wr2" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:05:57 PM - 10.20.14.5 ─ [13/Mar/2025 05:05:57 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:06:05 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:05 PM] "POST o.pki.goog/wr2" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:06:05 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:05 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:06:06 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:06 PM] "POST o.pki.goog/wr2" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:06:06 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:06 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:06:06 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:06 PM] "POST o.pki.goog/wr2" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:06:06 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:06 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:06:06 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:06 PM] "POST o.pki.goog/wr2" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:06:06 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:06 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:06:06 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:06 PM] "POST o.pki.goog/wr2" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:06:06 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:06 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:06:06 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:06 PM] "POST o.pki.goog/wr2" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:06:06 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:06 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:06:06 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:06 PM] "POST o.pki.goog/wr2" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:06:06 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:06 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:06:06 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:06 PM] "POST o.pki.goog/wr2" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:06:06 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:06 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:06:06 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:06 PM] "POST o.pki.goog/wr2" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:06:06 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:06 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:06:07 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:07 PM] "POST o.pki.goog/wr2" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:06:07 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:07 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:06:07 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:07 PM] "POST o.pki.goog/wr2" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:06:07 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:07 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:06:08 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:08 PM] "POST o.pki.goog/wr2" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:06:08 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:08 PM] Non-UTF-8 data in raw payload
+13/Mar/2025 05:06:20 PM - 10.20.14.5 ─ [13/Mar/2025 05:06:20 PM] "GET www.vulnweb.com/" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:07:27 PM - Sniffing stopped by user.
+13/Mar/2025 05:07:30 PM - Started sniffing on interface eth0 with filter 'tcp port 80'
+13/Mar/2025 05:07:37 PM - Sniffing stopped by user.
+13/Mar/2025 05:08:52 PM - Started sniffing on interface eth0 with filter 'tcp port 80'
+13/Mar/2025 05:09:09 PM - 10.20.14.5 ─ [13/Mar/2025 05:09:09 PM] "POST ocsp.sectigo.com/" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:18:38 PM - Started sniffing on interface eth0 with filter 'tcp port 80'
+13/Mar/2025 05:21:00 PM - Started sniffing on interface eth0 with filter 'tcp port 80'
+13/Mar/2025 05:21:21 PM - 10.20.14.5 ─ [13/Mar/2025 05:21:21 PM] "POST o.pki.goog/wr2" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:24:10 PM - Started sniffing on interface eth0 with filter 'tcp port 80'
+13/Mar/2025 05:24:32 PM - 10.20.14.5 ─ [13/Mar/2025 05:24:32 PM] "GET www.vulnweb.com/" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:24:45 PM - Sniffing stopped by user.
+13/Mar/2025 05:24:49 PM - Started sniffing on interface eth0 with filter 'tcp port 80'
+13/Mar/2025 05:24:58 PM - Sniffing stopped by user.
+13/Mar/2025 05:35:17 PM - Started sniffing on interface eth0 with filter 'tcp port 80'
+13/Mar/2025 05:35:45 PM - 10.20.14.5 ─ [13/Mar/2025 05:35:45 PM] "GET www.vulnweb.com/" Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0
+13/Mar/2025 05:37:16 PM - Sniffing stopped by user.
+13/Mar/2025 05:43:34 PM - Started sniffing on interface eth0 with filter 'tcp port 80'
+13/Mar/2025 05:43:34 PM - 10.20.14.3 ─ [13/Mar/2025 05:43:34 PM] "GET edge.microsoft.com/browsernetworktime/time/1/current?cup2key=2:H0WQ-NFijA_S9lON1I6LDv0BkifNjMjN1xp0d0xkiHM&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+13/Mar/2025 05:44:14 PM - Sniffing stopped by user.
+13/Mar/2025 05:44:19 PM - Started sniffing on interface wlan0 with filter 'tcp port 80'
+13/Mar/2025 05:44:25 PM - 192.168.1.19 ─ [13/Mar/2025 05:44:25 PM] "GET connectivitycheck.gstatic.com/generate_204" Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36
+13/Mar/2025 05:44:25 PM - 192.168.1.19 ─ [13/Mar/2025 05:44:25 PM] "GET 192.168.1.1/" Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011)
+13/Mar/2025 05:44:25 PM - 192.168.1.19 ─ [13/Mar/2025 05:44:25 PM] "GET connect.rom.miui.com/generate_204" Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.137 Mobile Safari/537.36
+13/Mar/2025 05:44:25 PM - 192.168.1.19 ─ [13/Mar/2025 05:44:25 PM] "GET connect.rom.miui.com/css/bootstrap.min.css" Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.137 Mobile Safari/537.36
+13/Mar/2025 05:44:25 PM - 192.168.1.19 ─ [13/Mar/2025 05:44:25 PM] "GET connect.rom.miui.com/css/all.min.css" Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.137 Mobile Safari/537.36
+13/Mar/2025 05:44:25 PM - 192.168.1.19 ─ [13/Mar/2025 05:44:25 PM] "GET connect.rom.miui.com/js/bootstrap.bundle.min.js" Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.137 Mobile Safari/537.36
+13/Mar/2025 05:44:25 PM - 192.168.1.19 ─ [13/Mar/2025 05:44:25 PM] "GET connect.rom.miui.com/webfonts/fa-solid-900.woff2" Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.137 Mobile Safari/537.36
+13/Mar/2025 05:44:25 PM - 192.168.1.19 ─ [13/Mar/2025 05:44:25 PM] "GET connect.rom.miui.com/assets/we-seeklogo.svg" Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.137 Mobile Safari/537.36
+13/Mar/2025 05:44:26 PM - 192.168.1.19 ─ [13/Mar/2025 05:44:26 PM] "GET connect.rom.miui.com/generate_204" Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011)
+13/Mar/2025 05:44:27 PM - 192.168.1.19 ─ [13/Mar/2025 05:44:27 PM] "GET connect.rom.miui.com/generate_204" Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011)
+13/Mar/2025 05:44:34 PM - 192.168.1.19 ─ [13/Mar/2025 05:44:34 PM] "POST connect.rom.miui.com/index.html" Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.137 Mobile Safari/537.36
+13/Mar/2025 05:44:34 PM - 192.168.1.19 ─ [13/Mar/2025 05:44:34 PM] "POST connect.rom.miui.com/index.html" Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.137 Mobile Safari/537.36 b'password-only=vyctctc'
+13/Mar/2025 05:44:35 PM - 192.168.1.19 ─ [13/Mar/2025 05:44:35 PM] "GET connect.rom.miui.com/generate_204" Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011)
+13/Mar/2025 05:44:36 PM - 192.168.1.19 ─ [13/Mar/2025 05:44:36 PM] "GET connect.rom.miui.com/generate_204" Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011)
+13/Mar/2025 05:45:17 PM - 192.168.1.19 ─ [13/Mar/2025 05:45:17 PM] "POST c.whatsapp.net/chat" Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)
+13/Mar/2025 05:45:28 PM - 192.168.1.19 ─ [13/Mar/2025 05:45:28 PM] "POST c.whatsapp.net/chat" Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)
+13/Mar/2025 05:45:29 PM - 192.168.1.19 ─ [13/Mar/2025 05:45:29 PM] "POST connect.rom.miui.com/index.html" Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.137 Mobile Safari/537.36
+13/Mar/2025 05:45:29 PM - 192.168.1.19 ─ [13/Mar/2025 05:45:29 PM] "POST connect.rom.miui.com/index.html" Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.137 Mobile Safari/537.36 b'password-only=tw626ehdhd'
+13/Mar/2025 05:45:30 PM - 192.168.1.19 ─ [13/Mar/2025 05:45:30 PM] "GET connect.rom.miui.com/generate_204" Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011)
+13/Mar/2025 05:45:31 PM - 192.168.1.19 ─ [13/Mar/2025 05:45:31 PM] "GET connect.rom.miui.com/generate_204" Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011)
+13/Mar/2025 05:45:39 PM - 192.168.1.19 ─ [13/Mar/2025 05:45:39 PM] "POST c.whatsapp.net/chat" Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)
+13/Mar/2025 05:45:50 PM - 192.168.1.19 ─ [13/Mar/2025 05:45:50 PM] "POST c.whatsapp.net/chat" Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)
+13/Mar/2025 05:46:01 PM - 192.168.1.19 ─ [13/Mar/2025 05:46:01 PM] "POST c.whatsapp.net/chat" Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)
+13/Mar/2025 05:46:24 PM - 192.168.1.19 ─ [13/Mar/2025 05:46:24 PM] "POST c.whatsapp.net/chat" Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)
+13/Mar/2025 05:46:35 PM - 192.168.1.19 ─ [13/Mar/2025 05:46:35 PM] "POST c.whatsapp.net/chat" Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)
+13/Mar/2025 05:46:53 PM - 192.168.1.19 ─ [13/Mar/2025 05:46:53 PM] "POST c.whatsapp.net/chat" Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)
+13/Mar/2025 05:47:04 PM - 192.168.1.19 ─ [13/Mar/2025 05:47:04 PM] "POST c.whatsapp.net/chat" Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)
+13/Mar/2025 05:47:30 PM - Sniffing stopped by user.
+13/Mar/2025 05:47:32 PM - Started sniffing on interface wlan0 with filter 'tcp port 80'
+13/Mar/2025 05:47:34 PM - 192.168.1.19 ─ [13/Mar/2025 05:47:34 PM] "POST c.whatsapp.net/chat" Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)
+13/Mar/2025 05:47:44 PM - 192.168.1.19 ─ [13/Mar/2025 05:47:44 PM] "POST c.whatsapp.net/chat" Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)
+13/Mar/2025 05:48:02 PM - 192.168.1.19 ─ [13/Mar/2025 05:48:02 PM] "POST connect.rom.miui.com/index.html" Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.137 Mobile Safari/537.36
+13/Mar/2025 05:48:02 PM - 192.168.1.19 ─ [13/Mar/2025 05:48:02 PM] "POST connect.rom.miui.com/index.html" Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.137 Mobile Safari/537.36 b'password-only=uu'
+13/Mar/2025 05:48:03 PM - 192.168.1.19 ─ [13/Mar/2025 05:48:03 PM] "GET connect.rom.miui.com/generate_204" Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011)
+13/Mar/2025 05:48:04 PM - 192.168.1.19 ─ [13/Mar/2025 05:48:04 PM] "GET connect.rom.miui.com/generate_204" Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011)
+13/Mar/2025 05:48:25 PM - Sniffing stopped by user.
+13/Mar/2025 05:48:28 PM - Started sniffing on interface wlan0 with filter 'tcp port 80'
+13/Mar/2025 05:48:35 PM - 192.168.1.19 ─ [13/Mar/2025 05:48:35 PM] "POST c.whatsapp.net/chat" Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)
+13/Mar/2025 05:48:35 PM - 192.168.1.19 ─ [13/Mar/2025 05:48:35 PM] "POST connect.rom.miui.com/index.html" Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.137 Mobile Safari/537.36
+13/Mar/2025 05:48:35 PM - 192.168.1.19 ─ [13/Mar/2025 05:48:35 PM] "POST connect.rom.miui.com/index.html" Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.137 Mobile Safari/537.36 b'password-only=sahermuhamed091u4'
+13/Mar/2025 05:48:36 PM - 192.168.1.19 ─ [13/Mar/2025 05:48:36 PM] "GET connect.rom.miui.com/generate_204" Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011)
+13/Mar/2025 05:48:37 PM - 192.168.1.19 ─ [13/Mar/2025 05:48:37 PM] "GET connect.rom.miui.com/generate_204" Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011)
+13/Mar/2025 05:48:46 PM - 192.168.1.19 ─ [13/Mar/2025 05:48:46 PM] "POST c.whatsapp.net/chat" Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)
+13/Mar/2025 05:50:05 PM - 192.168.1.19 ─ [13/Mar/2025 05:50:05 PM] "POST c.whatsapp.net/chat" Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)
+13/Mar/2025 05:50:16 PM - 192.168.1.19 ─ [13/Mar/2025 05:50:16 PM] "POST c.whatsapp.net/chat" Mozilla/5.0 (compatible; WAChat/1.2; +http://www.whatsapp.com/contact)
+13/Mar/2025 05:50:36 PM - 192.168.1.19 ─ [13/Mar/2025 05:50:36 PM] "GET clients2.google.com/time/1/current?cup2key=8:SOCxukseCnQFD6UmgH9yFJWFHFz67hZ-yDRPa6p5CUU&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
